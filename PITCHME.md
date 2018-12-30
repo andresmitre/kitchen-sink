@@ -102,7 +102,7 @@ Add *visual punch* to any slide<br>using inline images to tell your story.
 +++
 @title[Absolute URLs]
 
-@snap[west splitscreen]
+@snap[north-west splitscreen]
 @css[tip](Inline Image at <b>Absolute URL</b>)
 <br>
 ![Image-Absolute](https://d1z75bzl1vljy2.cloudfront.net/kitchen-sink/octocat-privateinvestocat.jpg)
@@ -633,4 +633,3 @@ For more details, examples, tips, and tricks see the [GitPitch Docs](https://git
 
 ## GO FOR IT.
 ## JUST ADD @color[#e49436](@css[notransform](PITCHME.md)) ;)
-
